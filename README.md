@@ -2,10 +2,9 @@
 
 My résumé is available in these formats:
 
-- [formats/kjresume.pdf](kjresume.pdf) (Portable Document Format)
-- [formats/kjresume.docx](kjresume.docx) (Microsoft Word)
+- [https://raw.githubusercontent.com/kristopherjohnson/resume/main/formats/kjresume.pdf](kjresume.pdf) (Portable Document Format)
+- [https://raw.githubusercontent.com/kristopherjohnson/resume/main/formats/kjresume.docx](kjresume.docx) (Microsoft Word)
+- [https://raw.githubusercontent.com/kristopherjohnson/resume/main/formats/kjresume.rtf](kjresume.rtf) (Rich Text Format)
 - [formats/kjresume.html](kjresume.html) (Web)
-- [formats/kjresume.rtf](kjresume.rtf) (Rich Text Format)
 - [src/kjresume.md](kjresume.md) (Markdown)
-- [formats/kjresume.txt](kjresume.txt) (Plain Text)
-
+- [https://raw.githubusercontent.com/kristopherjohnson/resume/main/formats/kjresume.txt](kjresume.txt) (Plain Text)
