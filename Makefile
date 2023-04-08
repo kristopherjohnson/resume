@@ -1,7 +1,7 @@
 PANDOC=pandoc
 
 # 'make all' will regenerate all the outputs from the source file src/kjresume.md
-all: formats/kjresume.html formats/kjresume.docx formats/kjresume.pdf formats/kjresume.rtf formats/kjresume.txt
+all: formats/kjresume.html formats/kjresume.docx formats/kjresume.pdf formats/kjresume.rtf formats/kjresume.txt formats/kjresume.tex
 .PHONY: all
 
 formats/kjresume.html: src/kjresume.md
@@ -23,6 +23,10 @@ formats/kjresume.rtf: src/kjresume.md formats
 formats/kjresume.txt: src/kjresume.md formats
 	[ -d formats ] || mkdir formats
 	$(PANDOC) -t plain --output $@ $<
+
+formats/kjresume.tex: src/kjresume.md formats
+	[ -d formats ] || mkdir formats
+	$(PANDOC) -t latex --output $@ $<
 
 # Delete all generated files
 clean:
