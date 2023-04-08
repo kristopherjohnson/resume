@@ -5,27 +5,21 @@ all: formats/kjresume.html formats/kjresume.docx formats/kjresume.pdf formats/kj
 .PHONY: all
 
 formats/kjresume.html: src/kjresume.md
-	[ -d formats ] || mkdir formats
 	$(PANDOC) -t html -s --output $@ $< --metadata title='Kristopher Johnson'
 
 formats/kjresume.docx: src/kjresume.md
-	[ -d formats ] || mkdir formats
 	$(PANDOC) -t docx -s --output $@ $<
 
-formats/kjresume.pdf: src/kjresume.md formats
-	[ -d formats ] || mkdir formats
+formats/kjresume.pdf: src/kjresume.md
 	$(PANDOC) -t pdf --output $@ $<
 
-formats/kjresume.rtf: src/kjresume.md formats
-	[ -d formats ] || mkdir formats
+formats/kjresume.rtf: src/kjresume.md
 	$(PANDOC) -t rtf --output $@ $<
 
-formats/kjresume.txt: src/kjresume.md formats
-	[ -d formats ] || mkdir formats
+formats/kjresume.txt: src/kjresume.md
 	$(PANDOC) -t plain --output $@ $<
 
-formats/kjresume.tex: src/kjresume.md formats
-	[ -d formats ] || mkdir formats
+formats/kjresume.tex: src/kjresume.md
 	$(PANDOC) -t latex --output $@ $<
 
 # Delete all generated files
