@@ -18,38 +18,45 @@ database technology, embedded systems, and distributed systems.
 
 ## Skills
 
-Operating Systems:\
+### Operating Systems
+
 iOS, Android, Windows, macOS, Linux, Solaris/SunOS, AT&T System V UNIX, QNX
 Neutrino, VxWorks, OpenVMS, OS/2
 
-Programming Languages:\
+### Programming Languages
+
 Rust, Python, C#, C++, C, Objective-C, Swift, Java, JavaScript, TypeScript,
 Perl, Ruby, Visual Basic, Bash
 
-Development Tools:\
+### Development Tools
+
 Visual Studio Code, Visual Studio, Xcode, Android Studio, Eclipse, Java SDK,
 Clang and GNU compilers and toolchains, Borland C++ Builder, IBM VisualAge C++
 
-Certifications:\
+### Certifications
+
 AWS Certified Cloud Practitioner
 
-Distributed Systems Technologies:\
+### Distributed Systems Technologies
+
 gRPC, REST services, web services, CORBA, DCOM, RPC, .NET Remoting, sockets
 
-Component Technologies:\
+### Component Technologies
+
 .NET, Java EE, ActiveX/OLE/COM, Dynamic Link Libraries and Shared Objects
 
-Database Systems:\
+### Database Systems
+
 PostgreSQL, Oracle, SQL Server, SQLite, MySQL, InfluxDB, Microsoft Access/Jet,
 Paradox
 
 
 ## Experience
 
-Feb 2015-Present\
+**Feb 2015-Present\
 Senior Software Developer\
 Kobiton, Inc.\
-Atlanta, GA
+Atlanta, GA**
 
 (Formerly Mobile Labs LLC, before its acquisition by Kobiton in October 2920.)
 
@@ -75,10 +82,10 @@ internal issue management and ZenDesk for coordination with support team and
 customers. Interviewed candidates for Director role.
 
 
-Sep 2006-Feb 2015\
+**Sep 2006-Feb 2015\
 President/Principal Engineer\
 Capable Hands Technologies, Inc.\
-Suwanee, GA
+Suwanee, GA**
 
 Provided software development and IT consulting services to clients in multiple
 industries.  Design and implementation of mobile applications for iOS and
@@ -123,9 +130,9 @@ tested new functionality. Tools used included Visual C++ 6.0, ATL, MFC, ActiveX
 controls, Subversion, VMWare, Windows crash dump analysis.
 
 
-2010-Jan 2013\
+**2010-Jan 2013\
 Consultant\
-Innovative Employee Solutions\
+Innovative Employee Solutions**
 
 Provided software development services to TransCore, LLC.
 
@@ -143,10 +150,10 @@ Maintenance of ActiveX-control-based legacy applications using C++, MFC, ATL,
 and .NET
 
 
-Jul 2003-Sep 2006\
+**Jul 2003-Sep 2006\
 Software Engineer\
 Scientific Games\
-Alpharetta, GA
+Alpharetta, GA**
 
 Designed, implemented, installed, maintained, and supportted Windows- and QNX
 Neutrino-based embedded software for point-of-sale lottery terminals, automated
@@ -159,9 +166,9 @@ Served as lead software developer for new product prototypes. Oversaw
 requirements specification, design, implementation, and deployment.
 
 
-Sep 2002-Sep 2003\
+**Sep 2002-Sep 2003\
 Independent Contractor\
-Duluth, GA
+Duluth, GA**
 
 Provided consulting services to former employer.  Provided technical support and
 advice, participated in design for further system development, developed and
@@ -177,10 +184,10 @@ control of a television set from customer’s web server over a wireless network
 using eMbedded Visual C++.
 
 
-Dec 2002-Feb 2003\
+**Dec 2002-Feb 2003\
 Independent Contractor\
 Magnet Communications\
-Atlanta, GA
+Atlanta, GA**
 
 Identified and corrected memory leaks in C++ ColdFusion/VisiBroker connector
 components and in other CORBA server applications, using Microsoft Visual C++
@@ -193,10 +200,10 @@ end.
 Assisted with upgrade of Rogue Wave SourcePro library version.
 
 
-Dec 1999-Feb 2002\
+**Dec 1999-Feb 2002\
 Principal Engineer\
 TransCore\
-Norcross, GA
+Norcross, GA**
 
 Lead architect and lead developer for CORBA-based Information Exchange Network
 pilot project for Los Angeles County Department of Public Works.
@@ -215,10 +222,10 @@ Involved in company's participation in CORBA-based transportation industry
 standards activities (NTCIP).
 
 
-Aug 1998-Dec 1999\
+**Aug 1998-Dec 1999\
 Senior Systems Engineer\
 Gardner Systems\
-Duluth, GA
+Duluth, GA**
 
 Designed and implemented a CORBA-based event notification service used by
 traffic management system components to communicate with one another and to
@@ -247,10 +254,10 @@ Participated in development of national standard for CORBA-based exchange of
 traffic flow data between control centers in multiple jurisdictions.
 
 
-Aug 1992-Aug 1998\
+**Aug 1992-Aug 1998\
 Systems Engineer\
 TransCore\
-Norcross, GA
+Norcross, GA**
 
 Designed and implemented a geographic map display, using the Microsoft
 Foundation Classes and the Active Template Library with Visual C++. The display
