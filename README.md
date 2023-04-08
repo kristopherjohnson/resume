@@ -1,7 +1,6 @@
-Kristopher Johnson
+# Kristopher Johnson
 
-E-mail: kris@kristopherjohnson.net
-
+E-mail: kris@kristopherjohnson.net\
 Web Site: https://undefinedvalue.com/
 
 
@@ -288,7 +287,7 @@ Currently living in the Atlanta, Georgia area. Willing to travel.
 University of Georgia, Athens, GA\
 B.S., Computer Science, June 1992
 
-Georgia Institute of Technology, Atlanta, GA\
+Currently studying at Georgia Institute of Technology, Atlanta, GA\
 M.S., Computer Science, December 2024 (expected graduation date)
 
 
