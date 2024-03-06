@@ -57,7 +57,7 @@ Senior Software Developer\
 Kobiton, Inc.\
 Atlanta, GA**
 
-(Formerly Mobile Labs LLC, before its acquisition by Kobiton in October 2920.)
+(Formerly Mobile Labs LLC, before its acquisition by Kobiton in October 2020.)
 
 Involved in design, development, maintenance, and support of a suite of
 enterprise mobile application testing products for iOS and Android. Using macOS,
