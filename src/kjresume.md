@@ -24,17 +24,17 @@ Neutrino, VxWorks, OpenVMS, OS/2
 
 ### Programming Languages
 
-Rust, Python, C#, C++, C, Objective-C, Swift, Java, JavaScript, TypeScript,
-Perl, Ruby, Visual Basic, Bash
+Rust, C++, Python, C#, C, Objective-C, Swift, Java, JavaScript, TypeScript,
+Perl, Ruby, Bash
 
 ### Development Tools
 
-Visual Studio Code, Visual Studio, Xcode, Android Studio, Eclipse, Java SDK,
-Clang and GNU compilers and toolchains, Borland C++ Builder, IBM VisualAge C++
+Visual Studio Code, Microsoft Visual Studio, Xcode, Android Studio, Eclipse,
+Java SDK, Clang and GNU compilers and toolchains
 
 ### Certifications
 
-AWS Certified Cloud Practitioner
+AWS Certified Solutions Architect - Associate, AWS Certified Cloud Practitioner
 
 ### Distributed Systems Technologies
 
@@ -52,18 +52,31 @@ Paradox
 
 ## Experience
 
-**Feb 2015-Present\
+**Jul 2024-Present\
+Senior Software Engineer\
+[DittoLive Incorporated](https://ditto.live)**
+
+Member of the Ditto SDK engineering team.  Personally responsible for evolution
+and maintenance of the C++ SDK, and collaborated with other team members on the
+SDKs for other programming languages.  Worked with product management and
+customers to implement new features and to provide escalated technical support.
+
+Worked with C++, Rust, Android, Swift, Java, and C# on iOS, Android, macOS, and
+Linux.
+
+
+**Feb 2015-Jul 2024\
 Senior Software Developer\
-Kobiton, Inc.\
+[Kobiton, Inc.](https://kobiton.com)\
 Atlanta, GA**
 
 (Formerly Mobile Labs LLC, before its acquisition by Kobiton in October 2020.)
 
-Involved in design, development, maintenance, and support of a suite of
-enterprise mobile application testing products for iOS and Android. Using macOS,
-iOS, Android, Rust, Swift, Objective-C, Xcode, Windows, Visual Studio .NET,
-Android Studio, C#, C++, Java, JavaScript, TypeScript, .NET, Mono, CMake, HTML,
-and CSS.
+Senior software engineer involved in architecture, design, development,
+maintenance, and support of a suite of enterprise mobile application testing
+products for iOS and Android. Using macOS, iOS, Android, Rust, Swift,
+Objective-C, Xcode, Windows, Visual Studio .NET, Android Studio, C#, C++, Java,
+JavaScript, TypeScript, .NET, Mono, CMake, HTML, and CSS.
 
 Development tasks include reverse-engineering of undocumented protocols, file
 formats, and operating system libraries, and maintaining compatibility with
@@ -118,12 +131,6 @@ Gathered requirements and initiated design and development of new generation of
 network infrastructure and management software at Scientific Games. Involved
 TCP/IP and serial communications with a variety of vendor-specific protocols.
 
-Developed JacksOrBetter video poker game for iPhone OS using Cocoa Touch/UIKit
-and Objective- C, for distribution via Apple’s App Store. Also developed
-web-application variant of JacksOrBetter, using HTML, CSS, JavaScript, jQuery,
-and WebKit.  Developed open-source Menubar Countdown application for Mac OS X,
-using Objective-C and Apple Xcode IDE.
-
 Assisted internal development team at Reuters in resolving issues for a major
 software release. Added necessary features, diagnosed and resolved defects, and
 tested new functionality. Tools used included Visual C++ 6.0, ATL, MFC, ActiveX
@@ -152,7 +159,7 @@ and .NET
 
 **Jul 2003-Sep 2006\
 Software Engineer\
-Scientific Games\
+[Scientific Games](https://www.scientificgames.com)\
 Alpharetta, GA**
 
 Designed, implemented, installed, maintained, and supportted Windows- and QNX
@@ -202,7 +209,7 @@ Assisted with upgrade of Rogue Wave SourcePro library version.
 
 **Dec 1999-Feb 2002\
 Principal Engineer\
-TransCore\
+[TransCore](https://transcore.com/its)\
 Norcross, GA**
 
 Lead architect and lead developer for CORBA-based Information Exchange Network
@@ -234,18 +241,10 @@ drive real-time graphical displays, using Microsoft Visual C++ and TAO.
 Designed and implemented a CORBA-based system component for exchanging local
 traffic system data with regional agencies in southern California.
 
-Played a major role in design and implementation of a DCOM-based system that
-controls freeway message signs and reacts to adverse weather conditions.
-
 Designed and implemented CORBA-based system for interactive control of remote
 closed-circuit television cameras from desktop computer, using Visual C++ and
 TAO. Maintained CORBA-based applications written in C++ using VisiBroker, Orbix,
 and TAO, for Windows and UNIX (Solaris) operating systems.
-
-Played a major role in company-wide software development process improvement
-activities. These included reorganization of the company's source code version
-control system, creation of scripts for automatic builds of software, definition
-of programming style standards, and documentation of procedures.
 
 Acted as team leader for coordination of development activities between several
 programmers across the country.
@@ -256,7 +255,7 @@ traffic flow data between control centers in multiple jurisdictions.
 
 **Aug 1992-Aug 1998\
 Systems Engineer\
-TransCore\
+[TransCore](https://transcore.com/its)\
 Norcross, GA**
 
 Designed and implemented a geographic map display, using the Microsoft
@@ -289,7 +288,7 @@ University of Georgia, Athens, GA\
 B.S., Computer Science, June 1992
 
 Currently studying at Georgia Institute of Technology, Atlanta, GA\
-M.S., Computer Science, December 2024 (expected graduation date)
+M.S., Computer Science, December 2025 (expected graduation date)
 
 
 ## Other
@@ -298,4 +297,4 @@ U.S. citizen.
 
 References available on request.
 
-This document was last updated 2023-04-08.
+This document was last updated 2024-08-25.
