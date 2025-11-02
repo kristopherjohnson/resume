@@ -1,18 +1,17 @@
 # Kristopher Johnson
 
-E-mail: kris@kristopherjohnson.net\
-Web Site: <https://undefinedvalue.com/>
+E-mail: kris@kristopherjohnson.net
 
 
 ## Summary
 
 Over 30 years of experience designing and implementing distributed systems and
-user applications for the transportation engineering, lottery/gaming, and
-enterprise mobile app testing industries, including service as lead developer
-for multiple projects. Experienced with iOS and Android development, Microsoft
-Windows, macOS and UNIX software development in Rust, C#, Objective-C, Swift,
-C++, Java, JavaScript and other programming languages, with relational database
-technology, embedded systems, and distributed systems.
+user applications for mobile applications, transportation engineering, and
+lottery/gaming industries, including service as lead developer for multiple
+projects. Experienced with iOS and Android development, Microsoft Windows, macOS
+and UNIX software development in C++, Go, Rust, C#, Objective-C, Swift, Java,
+JavaScript and other programming languages, with relational database technology,
+embedded systems, and distributed systems.
 
 
 ## Skills
@@ -24,7 +23,7 @@ Neutrino, VxWorks, OpenVMS, OS/2
 
 ### Programming Languages
 
-Rust, C++, Python, C#, C, Objective-C, Swift, Java, JavaScript, TypeScript,
+C++, Go, Rust Python, C#, C, Objective-C, Swift, Java, JavaScript, TypeScript,
 Perl, Ruby, Bash
 
 ### Development Tools
@@ -38,11 +37,7 @@ AWS Certified Solutions Architect - Associate, AWS Certified Cloud Practitioner
 
 ### Distributed Systems Technologies
 
-gRPC, REST services, web services, CORBA, DCOM, RPC, .NET Remoting, sockets
-
-### Component Technologies
-
-.NET, Java EE, ActiveX/OLE/COM, Dynamic Link Libraries and Shared Objects
+gRPC, REST, web services, RPC, .NET Remoting, CORBA, sockets
 
 ### Database Systems
 
@@ -56,13 +51,14 @@ Paradox
 Senior Software Engineer\
 [DittoLive Incorporated](https://ditto.live)**
 
-Member of the Ditto SDK engineering team.  Personally responsible for evolution
-and maintenance of the C++ SDK, and collaborated with other team members on the
-SDKs for other programming languages.  Worked with product management and
-customers to implement new features and to provide escalated technical support.
+Member of the [Ditto SDK](https://docs.ditto.live/sdk/latest) engineering team.
+Engineering lead for the Go and C++ SDKs. Collaborated with other team members
+on the SDKs for other programming languages, including Rust, Swift, Kotlin, and
+C#.  Worked with product management to define and implement new features.
+Provided technical support and onsite troubleshooting for customers.
 
-Worked with C++, Rust, Android, Swift, Java, and C# on iOS, Android, macOS, and
-Linux.
+Worked with C++, Go, Rust, Android, Swift, Java, and C# on iOS, Android, macOS,
+and Linux.
 
 
 **Feb 2015-Jul 2024\
@@ -288,7 +284,7 @@ University of Georgia, Athens, GA\
 B.S., Computer Science, June 1992
 
 Currently studying at Georgia Institute of Technology, Atlanta, GA\
-M.S., Computer Science, December 2025 (expected graduation date)
+M.S., Computer Science, December 2026 (expected graduation date)
 
 
 ## Other
@@ -297,4 +293,4 @@ U.S. citizen.
 
 References available on request.
 
-This document was last updated 2024-08-25.
+This document was last updated 2025-11-02.
