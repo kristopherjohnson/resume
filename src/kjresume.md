@@ -52,7 +52,7 @@ Senior Software Engineer\
 [DittoLive Incorporated](https://ditto.live)**
 
 Member of the [Ditto SDK](https://docs.ditto.live/sdk/latest) engineering team.
-Engineering lead for the Go and C++ SDKs. Collaborated with other team members
+Engineering lead for the Go and C++ SDKs.  Collaborated with other team members
 on the SDKs for other programming languages, including Rust, Swift, Kotlin, and
 C#.  Worked with product management to define and implement new features.
 Provided technical support and onsite troubleshooting for customers.
