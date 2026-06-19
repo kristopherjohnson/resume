@@ -23,8 +23,8 @@ Neutrino, VxWorks, OpenVMS, OS/2
 
 ### Programming Languages
 
-C++, Go, Rust Python, C#, C, Objective-C, Swift, Java, JavaScript, TypeScript,
-Perl, Ruby, Bash
+C++, Go, Rust, Python, C#, Swift, Kotlin, JavaScript, TypeScript,
+C, Objective-C, Java,  Perl, Ruby, Bash
 
 ### Development Tools
 
@@ -49,13 +49,19 @@ Paradox
 
 **Jul 2024-Present\
 Senior Software Engineer\
-[DittoLive Incorporated](https://ditto.live)**
+[DittoLive Incorporated](https://ditto.com)**
 
 Member of the [Ditto SDK](https://docs.ditto.live/sdk/latest) engineering team.
-Engineering lead for the Go and C++ SDKs.  Collaborated with other team members
-on the SDKs for other programming languages, including Rust, Swift, Kotlin, and
-C#.  Worked with product management to define and implement new features.
+
+Led development of a new Go SDK for Ditto. Engineering lead for the Rust and C++
+SDKs. Collaborated with other team members on the SDKs for other programming
+languages, including Swift, Kotlin, C#, JavaScript and TypeScript. The SDKs
+target multiple platforms, including iOS, Android, Linux, Windows, and Raspberry
+Pi.
+
+Worked with product management to define and implement new features.
 Provided technical support and onsite troubleshooting for customers.
+Built, tested, and shipped SDK software releases.
 
 Worked with C++, Go, Rust, Android, Swift, Java, and C# on iOS, Android, macOS,
 and Linux.
