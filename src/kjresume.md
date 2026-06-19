@@ -290,7 +290,7 @@ University of Georgia, Athens, GA\
 B.S., Computer Science, June 1992
 
 Currently studying at Georgia Institute of Technology, Atlanta, GA\
-M.S., Computer Science, December 2026 (expected graduation date)
+M.S., Computer Science, Expected graduation May 2027
 
 
 ## Other
@@ -299,4 +299,4 @@ U.S. citizen.
 
 References available on request.
 
-This document was last updated 2025-11-02.
+This document was last updated 2026-06-19.
