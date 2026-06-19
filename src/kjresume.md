@@ -63,8 +63,8 @@ Worked with product management to define and implement new features.
 Provided technical support and onsite troubleshooting for customers.
 Built, tested, and shipped SDK software releases.
 
-Worked with C++, Go, Rust, Android, Swift, Java, and C# on iOS, Android, macOS,
-and Linux.
+Championed use of Claude Code and other AI tools to research and resolve issues,
+to update legacy code to new APIs, and to improve technical documentation.
 
 
 **Feb 2015-Jul 2024\
