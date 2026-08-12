@@ -9,27 +9,27 @@ Over 30 years of experience designing and implementing distributed systems and
 user applications for mobile applications, transportation engineering, and
 lottery/gaming industries, including service as lead developer for multiple
 projects. Experienced with iOS and Android development, Microsoft Windows, macOS
-and UNIX software development in C++, Go, Rust, C#, Objective-C, Swift, Java,
+and UNIX software development in C++, Rust, Go, C#, Swift, Java, TypeScript,
 JavaScript and other programming languages, with relational database technology,
 embedded systems, and distributed systems.
 
 
 ## Skills
 
-### Operating Systems
+### Development Platforms
 
 iOS, Android, Windows, macOS, Linux, Solaris/SunOS, AT&T System V UNIX, QNX
 Neutrino, VxWorks, OpenVMS, OS/2
 
 ### Programming Languages
 
-C++, Go, Rust, Python, C#, Swift, Kotlin, JavaScript, TypeScript,
-C, Objective-C, Java,  Perl, Ruby, Bash
+C++, Rust, Go, Python, C#, Swift, Kotlin, JavaScript, TypeScript,
+C, Objective-C, Java, Perl, Ruby, Bash
 
 ### Development Tools
 
 Visual Studio Code, Microsoft Visual Studio, Xcode, Android Studio, Eclipse,
-Java SDK, Clang and GNU compilers and toolchains
+Clang and GNU compilers and toolchains
 
 ### Certifications
 
@@ -37,7 +37,7 @@ AWS Certified Solutions Architect - Associate, AWS Certified Cloud Practitioner
 
 ### Distributed Systems Technologies
 
-gRPC, REST, web services, RPC, .NET Remoting, CORBA, sockets
+gRPC, Protobuf, REST, web services, JSON, RPC, .NET Remoting, CORBA, sockets
 
 ### Database Systems
 
@@ -53,18 +53,17 @@ Senior Software Engineer\
 
 Member of the [Ditto SDK](https://docs.ditto.live/sdk/latest) engineering team.
 
-Led development of a new Go SDK for Ditto. Engineering lead for the Rust and C++
-SDKs. Collaborated with other team members on the SDKs for other programming
-languages, including Swift, Kotlin, C#, JavaScript and TypeScript. The SDKs
-target multiple platforms, including iOS, Android, Linux, Windows, and Raspberry
-Pi.
+Led development of a new Go SDK for Ditto. Served as engineering lead for the
+Rust and C++ SDKs. Collaborated with other team members on the SDKs for other
+programming languages, including Swift, Kotlin, C#, JavaScript and TypeScript.
+The SDKs target multiple platforms, including iOS, Android, Linux, Windows, and
+Raspberry Pi.
 
 Worked with product management to define and implement new features.
 Provided technical support and onsite troubleshooting for customers.
 Built, tested, and shipped SDK software releases.
 
-Championed use of Claude Code and other AI tools to research and resolve issues,
-to update legacy code to new APIs, and to improve technical documentation.
+Championed use of Claude Code and other AI tools within the company.
 
 
 **Feb 2015-Jul 2024\
@@ -290,7 +289,7 @@ University of Georgia, Athens, GA\
 B.S., Computer Science, June 1992
 
 Currently studying at Georgia Institute of Technology, Atlanta, GA\
-M.S., Computer Science, Expected graduation May 2027
+M.S., Computer Science, Expected graduation August 2027
 
 
 ## Other
@@ -299,4 +298,4 @@ U.S. citizen.
 
 References available on request.
 
-This document was last updated 2026-06-19.
+This document was last updated 2026-08-12.
